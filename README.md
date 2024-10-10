@@ -27,5 +27,5 @@ To compile and run this program, you need:
 If using Git, you can clone this repository by running:
 
 ```bash
-git clone https://github.com/your-username/quadratic-solver.git
+git clone https://github.com/sxdisbr/quadratic-solver.git
 cd quadratic-solver
