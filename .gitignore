@@ -1,0 +1,40 @@
+# Ignore Visual Studio Code specific files
+.vscode/
+
+# Ignore build files and binaries
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Ignore debugging files
+*.pdb
+*.ilk
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Ignore Windows specific files
+Thumbs.db
+*.DS_Store
+desktop.ini
+
+# Ignore compiled g++ output
+quadratic
+
+# Ignore CMake files if you're using it
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore any generated files by the build system
+build/
